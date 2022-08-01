@@ -6,4 +6,6 @@ the dnaA box. Also, remember to take the reverse complement into consideration! 
 
 Finding this replication origin is important becuase this knowledge assists in technologies such as gene therapy, which allows viral vectors to replicate effectively. 
 
+In Vibrio cholerae the DNA box sequence is ATGATCAAG and its reverse complement CTTGATCAT. The start locations of these in the V. cholerae genome can be found using patternmatching.py 
+
 I wrote a few scripts that may help find the ori, some being more useful than others and some more preliminary than others. Let me know if you have any input, thank you!
