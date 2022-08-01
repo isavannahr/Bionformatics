@@ -3,7 +3,7 @@
 #Code Challenge: Solve the Pattern Matching Problem.
 
 #Input: Two strings, Pattern and Genome.
-#Output: A collection of space-separated integers specifying all starting positions where Pattern appears as a substring of #Genome.
+#Output: A collection of integers specifying all starting positions where Pattern appears as a substring of #Genome.
 
 def patternMatching(pattern, genome): 
 	
